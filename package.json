@@ -1,0 +1,23 @@
+{
+	"scripts": {
+		"test": "gulp test",
+		"watch": "gulp watch"
+	},
+	"dependencies": {
+		"body-parser": "1.17.1",
+		"express": "4.15.2",
+		"http-status": "1.0.1",
+		"mongoose": "4.9.9",
+		"wagner-core": "0.2.0",
+		"underscore": "1.8.3",
+		"express-session": "1.15.2",
+		"passport": "0.3.2",
+		"passport-facebook": "2.1.1",
+		"stripe": "4.19.0",
+		"superagent": "3.5.2"
+	},
+	"devDependencies": {
+		"mocha": "3.4.1",
+		"superagent": "3.5.2"
+	}
+}
